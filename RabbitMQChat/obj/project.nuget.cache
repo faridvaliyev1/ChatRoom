@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HsTOM+BcEfl1n8fmJ51KsHAAa/fR6102dyood1YDqYKdXixRSMzP4EIe2NekZBBsIBkRcWK/CdG1Sdnh0sp6Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Farid\\source\\repos\\RabbitMQChat\\RabbitMQChat\\RabbitMQChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Farid\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Farid\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Farid\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\bin\Debug\netcoreapp3.1\RabbitMQChat.exe
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\bin\Debug\netcoreapp3.1\RabbitMQChat.deps.json
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\bin\Debug\netcoreapp3.1\RabbitMQChat.runtimeconfig.json
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\bin\Debug\netcoreapp3.1\RabbitMQChat.runtimeconfig.dev.json
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\bin\Debug\netcoreapp3.1\RabbitMQChat.dll
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\bin\Debug\netcoreapp3.1\RabbitMQChat.pdb
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\obj\Debug\netcoreapp3.1\RabbitMQChat.csprojAssemblyReference.cache
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\obj\Debug\netcoreapp3.1\RabbitMQChat.AssemblyInfoInputs.cache
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\obj\Debug\netcoreapp3.1\RabbitMQChat.AssemblyInfo.cs
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\obj\Debug\netcoreapp3.1\RabbitMQChat.csproj.CoreCompileInputs.cache
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\obj\Debug\netcoreapp3.1\RabbitMQChat.csproj.CopyComplete
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\obj\Debug\netcoreapp3.1\RabbitMQChat.dll
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\obj\Debug\netcoreapp3.1\RabbitMQChat.pdb
+C:\Users\Farid\source\repos\RabbitMQChat\RabbitMQChat\obj\Debug\netcoreapp3.1\RabbitMQChat.genruntimeconfig.cache
